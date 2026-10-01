@@ -1,15 +1,4 @@
-# Sistema de Usuários - Área da Saúde
 
-As principais classes do projeto são:
-
-```text
-src/
-├── Usuario.java
-├── Medico.java
-├── Enfermeiro.java
-├── Anestecista.java
-├── FuncionarioTecnicoAdm.java
-└── ResponsavelTecnico.java
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
